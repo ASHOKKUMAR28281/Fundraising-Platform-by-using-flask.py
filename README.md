@@ -110,3 +110,16 @@ Data flows from information.html → app.py (information function) → success.h
 User Views Success Page:
 
 All submitted data is displayed on success.html.
+
+
+
+![Screenshot 2025-02-19 165445](https://github.com/user-attachments/assets/5fa10057-e258-4d96-848f-06a7593c97c7)
+
+
+
+![Screenshot 2025-02-19 165508](https://github.com/user-attachments/assets/52a19e74-86f2-4242-b465-d1d340736c03)
+
+
+
+![Screenshot 2025-02-19 165534](https://github.com/user-attachments/assets/558d63e4-fd1a-409c-a26c-a884c254ff42)
+
